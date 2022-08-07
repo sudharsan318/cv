@@ -1,0 +1,23 @@
+body 
+{
+    background-color:#E4F9FF5;
+}
+ hr{
+    
+    border-style: none;
+    border-top-style: dotted;
+    border-color: violet;
+    border-width: 5px;
+    
+    width: 10%;
+
+ }
+
+ h1,h3
+  {
+color: violet;
+  }
+h1,h3
+{
+    color: turquoise;
+}
